@@ -1,0 +1,60 @@
+.container {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    gap: 0;
+    max-width: 1800px;
+}
+
+.box {
+    height: 250px;
+    width: 450px;
+    border: 1px solid black;
+}
+
+#box1 {
+    background-color: red;
+}
+
+#box2 {
+    background-color: rgb(6, 187, 30);
+}
+
+#box3 {
+    background-color: orange;
+}
+
+#box4 {
+    background-color: purple;
+}
+
+#box5 {
+    background-color: rgb(219, 45, 196);
+}
+
+#box6 {
+    background-color: blue;
+}
+
+#box7 {
+    background-color: brown;
+}
+
+#box8 {
+    background-color: plum;
+}
+
+#box9 {
+    background-color: rgb(68, 4, 105);
+}
+
+#box10 {
+    background-color: rgb(193, 226, 7);
+}
+
+#box11 {
+    background-color: rgb(23, 126, 121);
+}
+
+#box12 {
+    background-color: rgb(48, 243, 250);
+}
